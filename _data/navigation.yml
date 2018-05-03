@@ -10,6 +10,8 @@ main:
     url: /books/
   - title: "Quotes"
     url: /quotes/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
