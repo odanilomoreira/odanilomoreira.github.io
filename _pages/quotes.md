@@ -7,6 +7,6 @@ header:
     image: "/images/banner.jpg"
 ---
 
-> "If the image is clear and powerful, the price is easy to pay." - Jim Rohn
+> "If the promise is clear and powerful, the price is easy to pay." - Jim Rohn
 
 > "Only action matters." - Tom Bilyeu
