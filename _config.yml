@@ -282,6 +282,18 @@ defaults:
       layout: single
       author_profile: true
 
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
       defaults:
       # _portfolio
       - scope:
