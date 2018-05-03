@@ -5,8 +5,6 @@ permalink: /quotes/
 author_profile: true
 ---
 
-# Quotes Title
-
-## This is a example of a markdown page
+## This is a test
 
 > Adding a quote as example
