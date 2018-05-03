@@ -7,6 +7,6 @@ header:
     image: "/images/banner.jpg"
 ---
 
-## This is a test
+> "If the image is clear and powerful, the price is easy to pay." - Jim Rohn
 
-> Adding a quote as example
+> "Only action matters." - Tom Bilyeu
