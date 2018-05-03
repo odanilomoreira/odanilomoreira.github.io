@@ -4,6 +4,10 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Books"
+    url: /books/
   - title: "Quotes"
     url: /quotes/
   # - title: "About"

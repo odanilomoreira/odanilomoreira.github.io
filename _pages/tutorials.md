@@ -1,11 +1,10 @@
 ---
-title: "Projects"
+title: "Tutorials"
 layout: archive
-permalink: /projects/
+permalink: /tutorials/
 author_profile: true
 header:
     image: "/images/banner.jpg"
-
 ---
 
 {% include base_path %}
