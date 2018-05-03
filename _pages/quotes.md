@@ -1,3 +1,10 @@
+---
+title: "Quotes"
+layout: archive
+permalink: /quotes/
+author_profile: true
+---
+
 # Quotes Title
 
 ## This is a example of a markdown page
